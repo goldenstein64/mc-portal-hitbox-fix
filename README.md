@@ -6,4 +6,4 @@ This mod reverts this fix so that the hitbox is a full block again.
 
 ## Usage
 
-The main install method is on Modrinth over Fabric/Quilt, but a .jar file is published for ease of use.
+The main install method is on [Modrinth](https://modrinth.com/mod/portal-hitbox-fix) over Fabric 0.16.12, but a .jar file is published for ease of use.
